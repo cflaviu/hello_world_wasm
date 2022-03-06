@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Link to Emscripten-Generated Code
+Type=Link
+URL=http://0.0.0.0:8000/hello_world.html
+Icon=text-html
+Name[en_US]=link
